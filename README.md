@@ -1,6 +1,6 @@
-# Natural_Regions_MX_CA
-Natural regions of Mexico and Central America: historical and modified regionalization digital files
 # Natural Regions of Mexico and Central America
+Natural regions of Mexico and Central America: historical and modified regionalization digital files
+
 
 ...
 
@@ -8,7 +8,7 @@ Natural regions of Mexico and Central America: historical and modified regionali
 
 If you use these files in your work, we kindly ask that you cite the following publication:
 
-**[Include the full citation of your article here once published]**
+Ríos-Muñoz, C. A., L. M. Ochoa-Ochoa & O. Flores-Villela. Submitted. Natural regions of Mexico and Central America: historical and modified regionalization digital files.
 
 Additionally, please cite the original sources for the maps as follows:
 
